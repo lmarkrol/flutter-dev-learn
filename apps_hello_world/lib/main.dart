@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
             color: Colors.lightBlue, 
             width: 150, 
             height: 60, 
-            child: Text("Your text is here :D Good luck and keep it up",
+            child: Text("Your text is here :D Good luck and keep it moving!",
             // maxLines: 2,
             textAlign: TextAlign.center,
             style: TextStyle(
