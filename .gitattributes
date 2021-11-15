@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# to change language of repo from HTML to Dart
+*.html linguist-language=Dart
